@@ -25,14 +25,6 @@ The assignment involves:
 You can find the design reference for this project here:  
 [Figma Design - KoinX Frontend Assignment](https://www.figma.com/design/VRj5MqVPoQdj5N7AwmYc98/KoinX---Frontend-Intern-Assignment?node-id=0-1&p=f&t=3dnZjGJ9bxSi9N60-0)
 
----
-
-## 🚀 Deployment Link
-
-The deployed version of this project is accessible at:  
-**[KoinX Frontend Assignment Deployment]
-
----
 
 ## 🛠️ Technologies Used
 
